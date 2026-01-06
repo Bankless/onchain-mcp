@@ -21,7 +21,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.7.0",
+    "@modelcontextprotocol/sdk": "1.25.1",
     "@types/node": "^22",
     "@types/node-fetch": "^2.6.12",
     "axios": "^1.8.3",
