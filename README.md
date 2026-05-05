@@ -1,5 +1,8 @@
 # Bankless Onchain MCP Server
 
+
+## This project is no longer receiving updates
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Version](https://img.shields.io/badge/version-0.6.2-blue)
 
