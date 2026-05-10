@@ -5,6 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Version](https://img.shields.io/badge/version-0.6.2-blue)
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/Bankless/onchain-mcp)](https://archestra.ai/mcp-catalog/Bankless__onchain-mcp)
 
 MCP (Model Context Protocol) server for blockchain data interaction through the Bankless API.
 
