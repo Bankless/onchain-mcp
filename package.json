@@ -36,5 +36,9 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2",
     "vitest": "^3.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bankless/onchain-mcp.git"
   }
 }
